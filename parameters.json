@@ -1,0 +1,51 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "availabilitySets_Backend_avs_name": {
+            "value": null
+        },
+        "disks_Backend_VM_DataDisk_name": {
+            "value": null
+        },
+        "disks_Backend_VM_OsDisk_1_4d28cbae969a4d59bcd98f405770f0d3_name": {
+            "value": null
+        },
+        "virtualMachines_Backend_VM_name": {
+            "value": null
+        },
+        "IotHubs_parqIotHub_name": {
+            "value": null
+        },
+        "components_parqdev1web_name": {
+            "value": null
+        },
+        "networkInterfaces_backend_vm978_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Backend_VM_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_Backend_VM_pip_name": {
+            "value": null
+        },
+        "virtualNetworks_Dev_RG_vnet_name": {
+            "value": null
+        },
+        "storageAccounts_devrgdiag688_name": {
+            "value": null
+        },
+        "storageAccounts_parqstorage_name": {
+            "value": null
+        },
+        "serverfarms_parqdevServicePlan_name": {
+            "value": null
+        },
+        "sites_parqdev1web_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        }
+    }
+}
